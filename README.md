@@ -1,6 +1,6 @@
 
 --- 
-# Unidad 4 - Javascript
+# Unidad 4 - JavaScript
 <img src=daniimg.png>
 
 
@@ -12,6 +12,19 @@
 * Ejercicio 5 (Registro de usuario y contraseña, tienen que existir)
 * Ejercicio 6 (Ventana emergente con el resumen de datos de un array list)
 * Ejercicio 7 (Cambiar el color de fondo al pasar el mouse por una imágen/texto)
+* Ejercicio 8 (Número de orden de mayor a menor de los números de un array list)
+* Ejercicio 9 (Has echo click aquí)
+* Ejercicio 10 (Número de letras repetidas de una cadena/frase)
+* Ejercicio 11 (Numeros ente 1 y 100 correctos)
+* Ejercicio 12 (Array sin números repetidos)
+* Ejercicio 13 (Ocultar/mostrar contenido)
+* Ejercicio 14 (Botón que te imprime una página)
+* Ejercicio 15 (Cálculadora)
+* Ejercicio 16 (Pedir números, introducir en un array list e imprir ordenados y según se han introducido)
+* Ejercicio 17 (Tabla de múltiplicar)
+* Ejercicio 19 (Bombilla)
+* Ejercicio 20 (Botones de colores)
+* Infinity
 
 
 
